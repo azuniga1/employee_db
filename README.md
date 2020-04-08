@@ -11,7 +11,6 @@ Use the information to create a table schema for each of the six CSV files.
 <br>
 Answer the following questions about Data (Data Analysis)
 1. List the following details of each employee: employee number, last name, first name, gender, and salary.
-<br>
 2. List employees who were hired in 1986.
 <br>
 3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name, and start and end employment dates.
