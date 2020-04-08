@@ -1,2 +1,6 @@
-# sql_challenge
-research project on employees of the corporation from the 1980s and 1990s.
+# Employee Database
+Design tables to hold Employe data in CSVs(Data Modeling)
+Import CSV’s into SQL database(Data Engineering)
+Answer questions about Data (Data Analysis)
+
+
