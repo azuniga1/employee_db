@@ -1,5 +1,6 @@
 # Employee Database
-Design tables to hold Employe data in CSVs(Data Modeling)
+## Data Modeling
+Design tables to hold Employe data in CSVs
 <br>
 Inspect the CSVs provided and sketch out an ERD of the tables
 <br>
