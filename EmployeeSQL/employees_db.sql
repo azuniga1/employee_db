@@ -55,10 +55,3 @@ FROM employees
 GROUP BY last_name
 ORDER BY last_name DESC;
 
---Bonus 'Search your ID' Funny! 
-SELECT employees.emp_no, employees.last_name, employees.first_name, employees.gender, salaries.salary
-FROM employees
-INNER JOIN salaries ON
-salaries.emp_no=employees.emp_no
-WHERE employees.emp_no = 499942;
-
