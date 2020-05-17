@@ -6,7 +6,7 @@
 * Create a table schema for each of the CSV files
 
 ## Getting Started
-
+PotgreSQL is an open source object-relational database management system, PostgrSQL available for MacOS, Linux, and Windows
 ## Data Modeling
 Design tables to hold Employe data in CSVs
 <br>
