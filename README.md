@@ -7,6 +7,11 @@
 
 ## Getting Started
 PotgreSQL is an open source object-relational database management system, PostgrSQL available for MacOS, Linux, and Windows
+* Remember to choose the installation package specific to your operating system and download thelatest version
+* Be preapred to record the password, this will be needed later!
+
+## Download Link(s)
+
 ## Data Modeling
 Design tables to hold Employe data in CSVs
 <br>
