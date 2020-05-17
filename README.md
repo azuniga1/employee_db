@@ -22,7 +22,10 @@ PotgreSQL is an open source object-relational database management system, Postgr
 
 
 ## Data Engineering
-After creating our ERD we will use it to create out tables our table Schema for each of our six CSV files with specific dat tupes, priamry keys, foreign keys and any other constartaints w emight have 
+After creating our ERD we will use it to create our table Schema for each of our six CSV files with specific data types, priamry keys, foreign keys and any other constartaints we might have.
+
+* Open pgAdmin4 and enter your password
+![password]
 
 
 
