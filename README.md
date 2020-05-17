@@ -1,4 +1,4 @@
-# Craete a Employee Database in PostgreSSQL
+# Craete a Employee Database using PostgreSQL
 * Create a local connection to PostgreSQL server and have successfully connect to it.
 * Import large CSV datasets into pgAdmin
 ## Data Modeling
