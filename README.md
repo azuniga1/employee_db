@@ -5,6 +5,8 @@
 * Import CSV's into PostgreSQL
 * Create a table schema for each of the CSV files
 
+## Getting Started
+
 ## Data Modeling
 Design tables to hold Employe data in CSVs
 <br>
