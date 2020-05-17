@@ -16,6 +16,7 @@ PotgreSQL is an open source object-relational database management system, Postgr
 
 ## Data Modeling
 * Inspect the CSV files in data folder (above) and sketch out an ERD of the tables. I used this free tool    (http://www.quickdatabasediagrams.com)
+* You can export the Schema to  create our tables in PostgeSql/PgAdmin
 
 #### My ERD Sketch
 ![My ERD](EmployeeSQL/ERD.png)
@@ -26,6 +27,8 @@ After creating our ERD we will use it to create our table Schema for each of our
 
 * Open pgAdmin4 and enter your password
 ![password](Images/password.png)
+* Create a NEW Database (EmployeeDB)
+* Open The Query editor we are going to use our ERD file to create our tables (we need to create our tables before we can import our data)
 
 
 
