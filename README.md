@@ -11,7 +11,7 @@ PotgreSQL is an open source object-relational database management system, Postgr
 * Be preapred to record the password, this will be needed later!
 
 ## Download Link(s)
-* [Dropwizard](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) - PostgreSQL
+* [PostgeSQL](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 ## Data Modeling
 Design tables to hold Employe data in CSVs
 <br>
