@@ -1,4 +1,6 @@
-# Employee Database
+# SQL Employee Database
+* Create a local connection to PostgreSQL server and have successfully connect to it.
+* Import large CSV datasets into pgAdmin
 ## Data Modeling
 Design tables to hold Employe data in CSVs
 <br>
