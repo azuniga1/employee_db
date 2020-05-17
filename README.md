@@ -15,7 +15,7 @@ PotgreSQL is an open source object-relational database management system, Postgr
 * [YouTube Instalation Guide](https://www.youtube.com/watch?v=PVJ36lHuN7Q&feature=youtu.be)
 
 ## Data Modeling
-Inspect the CSV files in data folder (above) ank sketch out an ERD of the tables. I used the free tool (http://www.quickdatabasediagrams.com)
+* spect the CSV files in data folder (above) ank sketch out an ERD of the tables. I used this free tool (http://www.quickdatabasediagrams.com)
 <br>
 Inspect the CSVs provided and sketch out an ERD of the tables
 <br>
