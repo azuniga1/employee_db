@@ -1,6 +1,10 @@
 # Craete a Employee Database using PostgreSQL
 * Create a local connection to PostgreSQL server and have successfully connect to it.
-* Import large CSV datasets into pgAdmin
+* Design tables to hold data in CSV's
+* Inspect the CSV's and sketch out ERD of the tables
+* Import CSV's into PostgreSQL
+* Create a table schema for each of the CSV files
+
 ## Data Modeling
 Design tables to hold Employe data in CSVs
 <br>
