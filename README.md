@@ -22,10 +22,7 @@ PotgreSQL is an open source object-relational database management system, Postgr
 
 
 ## Data Engineering
-Import CSV’s into SQL database
-<br>
-Use the information to create a table schema for each of the six CSV files.
-
+After creating our ERD we will use it to create out tables our table Schema for each of our six CSV files with specific dat tupes, priamry keys, foreign keys and any other constartaints w emight have 
 
 
 
